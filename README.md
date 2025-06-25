@@ -44,4 +44,27 @@ src/
 git clone https://github.com/your-username/saucedemo-testng-selenium.git
 cd saucedemo-testng-selenium
 
+Implement the dependencies 
+
+
+
+
+ ##Test Flow
+Login
+
+User: standard_user
+
+Password: secret_sauce
+
+Add to Cart
+
+Adds the first visible product to the cart
+
+Verifies it using product name comparison
+
+Checkout
+
+Fills first name, last name, and zip
+
+Clicks Finish to complete the flow
 
